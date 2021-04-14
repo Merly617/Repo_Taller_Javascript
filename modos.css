@@ -1,0 +1,159 @@
+.containerp{
+  background: url(sala.jpg);
+  background-repeat: no-repeat; 
+  height: 50%;
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction: column;
+
+  
+}
+.container form{
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,19);
+}
+
+#div1
+{
+    border-style: solid;
+    width: 1000px;
+    height: 1000px;
+
+}
+
+#div2
+{
+    color:cadetblue;
+    margin-left: auto;
+	margin-right: auto;
+    text-align:center;
+    background-image: none;
+}
+
+#div3
+{
+    font-size: 10px;
+    border-width: thin;
+    border: 1px;
+    display:center;
+    border-radius:0%;
+}
+.folder
+{   
+    color:#4682B4;
+    padding:5px;
+    text-decoration: none;
+    display: inline-block;
+    font-family:Impact;
+    font-size: 100px;
+}
+.explorer{
+    color:#000000;
+    font-size:100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#divconsulta
+{
+    width: 50%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+
+}
+#divconsulta2
+{
+    font-size: 10px;
+    padding: 0;
+    border-width: thin;
+    border: 1px solid;
+
+}
+
+
+p{
+    display: block;
+    border-radius: 20px;
+}
+
+.botoniniciar
+{
+    font-family:Impact;
+    color:#708090;
+}
+
+.button {
+    border: none;
+    padding: 70px 32px;
+    font-family:Impact;
+    display: inline-block;
+    font-size: 30px;
+    margin: 23px 25px;
+    cursor: pointer;
+    border-style: initial;
+}
+.cambio{
+    width:500px;
+    height:30px;
+}
+.espacio{
+    width:350px;
+    height:15px;
+
+}
+h1{
+    font-size:10px;
+    font-family:Impact;
+}
+
+.outline
+{
+    
+    border-radius:  50px;
+
+}
+
+.reset{
+   font-size:40px; 
+   display: flex;
+}
+
+.content
+{
+    font-size: 78px;
+    font-family:Impact;
+
+}
+
+.control{
+    border-radius: 20px;
+    background-color: grey;
+    font-size: 50px;
+    font-family:60px;
+
+}
+
+.font
+{
+   font-size:29px;
+}
+
+.input type [button]{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid gray;
+  border-radius: 4px;
+}
+
+.lgris{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
